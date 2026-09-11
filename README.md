@@ -180,7 +180,7 @@ plt.close()
 For questions, bug reports, or collaboration inquiries, please contact the corresponding author:  
 📧 **Email**: zhoulq@sibet.ac.cn  
 👥 **ORCID**: [ORCID: 0000-0001-9250-7236](https://orcid.org/0000-0001-9250-7236)  
-🏫 **Affiliation**: [School of Biomedical Engineering (Suzhou), Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, 230026, China]
+🏫 **Affiliation**: School of Biomedical Engineering (Suzhou), Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, 230026, China
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
